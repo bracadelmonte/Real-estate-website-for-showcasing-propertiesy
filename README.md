@@ -1,1 +1,1 @@
-# Real-estate-website-for-showcasing-propertiesy
+# Real-estate-website-for-showcasing-properties
